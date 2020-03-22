@@ -1,0 +1,16 @@
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\bin\Debug\Kikérdező projekt.exe.config
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\bin\Debug\Kikérdező projekt.exe
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\bin\Debug\Kikérdező projekt.pdb
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\bin\Debug\MySql.Data.dll
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\bin\Debug\Renci.SshNet.dll
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\bin\Debug\MySql.Data.xml
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\obj\Debug\Kikérdező projekt.csprojAssemblyReference.cache
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\obj\Debug\Kikérdező_projekt.Form1.resources
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\obj\Debug\Kikérdező_projekt.Properties.Resources.resources
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\obj\Debug\Kikérdező projekt.csproj.GenerateResource.cache
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\obj\Debug\Kikérdező projekt.csproj.CopyComplete
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\obj\Debug\Kikérdező projekt.exe
+C:\Users\Marcell\source\repos\Kikérdező projekt\Kikérdező projekt\obj\Debug\Kikérdező projekt.pdb
