@@ -1,0 +1,6 @@
+C:\Users\Marcell\source\repos\Dobókocka\Dobókocka\bin\Debug\Dobókocka.exe.config
+C:\Users\Marcell\source\repos\Dobókocka\Dobókocka\bin\Debug\Dobókocka.exe
+C:\Users\Marcell\source\repos\Dobókocka\Dobókocka\bin\Debug\Dobókocka.pdb
+C:\Users\Marcell\source\repos\Dobókocka\Dobókocka\obj\Debug\Dobókocka.exe
+C:\Users\Marcell\source\repos\Dobókocka\Dobókocka\obj\Debug\Dobókocka.pdb
+C:\Users\Marcell\source\repos\Dobókocka\Dobókocka\obj\Debug\Dobókocka.csprojAssemblyReference.cache
